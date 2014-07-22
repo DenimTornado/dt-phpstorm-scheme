@@ -1,4 +1,4 @@
-denim-tornado-phpstrom
+dt-phpstorm-scheme
 ======================
 
 Simple and dark PHPStorm color scheme
